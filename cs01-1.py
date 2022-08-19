@@ -1,1 +1,1 @@
-print("Pimchanok Dangsuwan")
+print("Pimchanok")
